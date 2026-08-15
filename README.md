@@ -34,6 +34,7 @@ some of the main cleaning steps were:
 - Creating order month
 - Combining different datasets
 - Checking invalid sales values
+  
   The final cleaned dataset contains:
   - 112650 rows
   - 34 columns
@@ -98,6 +99,7 @@ some of the main cleaning steps were:
  - Review analysis
  - Delivery analysis
  - Interactive slicers and charts
+   
 The interactive Power BI dashboard was created using the cleaned e-commerce data.
 [Download Power BI dashboard](https://drive.google.com/file/d/1dJoU5EXjNtsJrcPwdD0h3sKEF_VsumGx/view?usp=drive_link)
 ## Project Files
