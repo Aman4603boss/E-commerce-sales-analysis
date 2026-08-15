@@ -20,6 +20,7 @@ The dataset contains information about:
 - reviews
 - product categories
 - delivery
+  
 The final cleaned dataset is not included directly in this repository because of its large file size.
 [Download the final cleaned dataset](https://drive.google.com/file/d/17oKJrtfg9SEkvqkaoIAhZodRjaLifzbp/view?usp=drive_link)
 ### Data Cleaning
